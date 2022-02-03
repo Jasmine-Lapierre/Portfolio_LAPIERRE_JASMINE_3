@@ -17,8 +17,18 @@
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
+- #
+- #
+- #
+- #
+- #
 
 ## Liste des éléments nécessaires pour la mise en exposition 
+- #
+- #
+- #
+- #
+- #
 
 ## Expérience vécue
 
