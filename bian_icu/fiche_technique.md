@@ -12,9 +12,10 @@ L'oeuvre est dans une piece noire. Dans la piece, il y a 4 dispositifs identique
 2. Un écran d'ordinateur qui montre un cardioscope. ![photo](photos/bian_icu_ecran_medical.jpg) ainsi que l'appareil auquel les fils du robot se rattachent ![photo](photos/bian_icu_fonctionnement.jpg)
 3. un rectangle lumineux à environ un mètre au dessus du squelette qui illumine l'installation ![photo](photos/bian_icu_robot_lumiere_ecran_medical.jpg)
 4. 8 lumieres qui pointent vers les differents dispositifs ![photo](photos/bian_icu_installation_lumieres.jpg)
-
+Le principe de cette installation est plutôt simple. En effet, lorsqu'un visiteur s'approche d'une installation, elle est supposée s'activer. Lorsqu'elle s'active, elle nous montre la souffrance du robot malade en faisant bouger le robot comme un humain qui se débat. Malheureusement, les responsables de l'installation n'ont pas réussi à rendre l'installation interactive, ce qui veut dire que l'oeuvre est constamment activiée.
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
+Les robots bougent grâce à des compresseurs d'air activés au préalable. Un ordi, câché par un rideau noir, sert à activer les lumieres et certains autres aspects, alors, pour les cacher, des caches-fils sont utilisés. ![photo de l'ordinateur](photos/bian_icu_ordinateur.jpg) ![photo des caches fils](photos/bian_icu_cache_fils.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - #
