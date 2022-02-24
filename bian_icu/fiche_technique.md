@@ -1,6 +1,8 @@
-# Titre de l'oeuvre ou de la réalisation
+# I.C.U (INTENSIVE CARE UNIT)
 
 ## Informations générales de l'oeuvre
+"I.C.U. (Intensive Care Unit) est une installation robotique mettant en scène des machines alitées, maladives et souffrantes, réagissant à la présence des spectateurs"(comme lu sur le cartel d'information)
+![photo](bian_icu_cartel.jpg)
 
 ### Nom de l'artiste ou de la firme
 
