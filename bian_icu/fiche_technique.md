@@ -9,8 +9,10 @@ Cette oeuvre peut être décrite comme une "une installation robotique mettant e
 ![photo](photos/bian_icu_installation_visiteur.jpg)
 L'oeuvre est dans une piece noire. Dans la piece, il y a 4 dispositifs identiques. Chaque dispositif est composé de 4 elements: 
 1. Un robot-squelette composé de rectangles métaliques et un crâne en materiaux ressemblant à un os. Il y a un respirateur attaché au crâne et plusieurs autres fils qui le joignent au cardioscope ![photo](photos/bian_icu_robot_proche.jpg)
-2. Un écran d'ordinateur qui montre un cardioscope. ![photo](photos/bian_icu_ecran_medical.jpg) ainsi que l'appareil auquel les fils du robot se ratachent ![photo](photos/bian_icu_fonctionnement.jpg)
-3. un rectangle lumineux à environ un mètre au dessus du squelette
+2. Un écran d'ordinateur qui montre un cardioscope. ![photo](photos/bian_icu_ecran_medical.jpg) ainsi que l'appareil auquel les fils du robot se rattachent ![photo](photos/bian_icu_fonctionnement.jpg)
+3. un rectangle lumineux à environ un mètre au dessus du squelette qui illumine l'installation ![photo](photos/bian_icu_robot_lumiere_ecran_medical.jpg)
+4. 8 lumieres qui pointent vers les differents dispositifs ![photo](photos/bian_icu_installation_lumieres.jpg)
+
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 
