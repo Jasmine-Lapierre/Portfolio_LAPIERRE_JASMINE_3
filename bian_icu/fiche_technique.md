@@ -15,7 +15,7 @@ L'oeuvre est dans une piece noire. Dans la piece, il y a 4 dispositifs identique
 Le principe de cette installation est plutôt simple. En effet, lorsqu'un visiteur s'approche d'une installation, elle est supposée s'activer. Lorsqu'elle s'active, elle nous montre la souffrance du robot malade en faisant bouger le robot comme un humain qui se débat. Malheureusement, les responsables de l'installation n'ont pas réussi à rendre l'installation interactive, ce qui veut dire que l'oeuvre est constamment activiée.
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
-Les robots bougent grâce à des compresseurs d'air activés au préalable. Un ordi, câché par un rideau noir, sert à activer les lumieres et certains autres aspects, alors, pour les cacher, des caches-fils sont utilisés. ![photo de l'ordinateur](photos/bian_icu_ordinateur.jpg) ![photo des caches fils](photos/bian_icu_cache_fils.jpg)
+Les robots bougent grâce à des compresseurs d'air activés au préalable. Un ordi, câché par un rideau noir, sert à activer les lumieres et certains autres aspects, alors, pour les cacher, des caches-fils sont utilisés. ![photo de l'ordinateur](photos/bian_icu_ordinateur.jpg) ![photo des caches fils](photos/bian_icu_cache_fils.jpg) Un autre ordinateur est caché dans un dispositif qui ressemble à un engin médical, afin que les visiteurs n'y voient que tu feu ![photo](photos/bian_icu_fonctionnement.jpg) (la partie à droite est un ordinateur qui permet à l'écran médical de s'afficher)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - #
