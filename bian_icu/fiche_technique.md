@@ -3,17 +3,7 @@
 ## Informations générales de l'oeuvre
 Cette oeuvre peut être décrite comme une "une installation robotique mettant en scène des machines alitées, maladives et souffrantes, réagissant à la présence des spectateurs"(comme lu sur le cartel d'information)
 ![photo](photos/bian_icu_cartel.jpg)
-I.C.U est une création de Bill Vorn, réalisée en 2021, puis présentée du 19 novembre 2021 au 13 février 2022 à la Biennale internationale des arts numériques BIAN 2021 à Montréal (selon le [site de l'artiste](https://billvorn.concordia.ca/menuallF.html) consulté à la date du 23 février)
-
-### Nom de l'artiste ou de la firme
-
-### Année de réalisation
-
-### Nom de l'exposition ou de l'événement
-
-### Lieu de mise en exposition
-
-###  Date de ma visite
+*I.C.U* est une création de Bill Vorn, réalisée en 2021, puis présentée du 19 novembre 2021 au 13 février 2022 à la Biennale internationale des arts numériques BIAN 2021 à Montréal (selon le [site de l'artiste](https://billvorn.concordia.ca/menuallF.html) consulté à la date du 23 février). J'ai eu la chance de visiter cet evenement lors d'une sortie de ma classe de *Documentation d'une collection multimedias* le jeudi 10 février 2022.
 
 ## Description de l'oeuvre ou du dispositif multimédia
 
