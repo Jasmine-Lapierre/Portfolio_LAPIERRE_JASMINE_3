@@ -1,4 +1,4 @@
-# Titre de l'oeuvre ou de la réalisation
+# Configuration du sensible
 
 ## Informations générales de l'oeuvre
 
