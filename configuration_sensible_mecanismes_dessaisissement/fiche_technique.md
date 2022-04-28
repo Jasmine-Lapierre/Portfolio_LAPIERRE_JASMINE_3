@@ -1,9 +1,9 @@
 # Mécanismes de dessaisissement (rond, carré, triangle)
 
 ## Informations générales de l'oeuvre
-Cette œuvre peut être décrite comme une "une installation robotique mettant en scène des machines alitées, maladives et souffrantes, réagissant à la présence des spectateurs"(comme lu sur le cartel d'information)
-![photo](photos/bian_icu_cartel.jpg)
-*I.C.U* est une création de Bill Vorn, réalisée en 2021, puis présentée du 19 novembre 2021 au 13 février 2022 à la Biennale internationale des arts numériques BIAN 2021 à Montréal (selon le [site de l'artiste](https://billvorn.concordia.ca/menuallF.html) consulté à la date du 23 février). J'ai eu la chance de visiter cet événement lors d'une sortie de ma classe de *Documentation d'une collection multimédia* le jeudi 10 février 2022.
+Cette œuvre peut être décrite comme des "sculptures murales qui tendent à capter le regard, l'emportant dans une chorégraphie à la fois géométrique, lumineuse et chromatique"(comme lu sur le cartel d'information).
+![photo](medias/photos_png/mecanismes_dessaisissement_cartel.png)
+*Mécanismes de dessaisissement (rond,carré,triangle)* est une création du duo Bill Béchard Huon, réalisée de 2019 à 2021, puis présentée du 20 février au 16 avril 2022 à la salle Alfred-Pellan à Laval (selon le [site de la ville de Laval](laval.ca/Pages/Fr/Calendrier/mda-vernissage-bechard-hudon.aspx) consulté à la date du 28 avril 2022). J'ai eu la chance de visiter cet événement lors d'une sortie scolaire de ma classe de *Documentation d'une collection multimédia* le jeudi 17 mars 2022.
 
 ## Description de l'oeuvre ou du dispositif multimédia
 ![photo](photos/bian_icu_installation_visiteur.jpg)
