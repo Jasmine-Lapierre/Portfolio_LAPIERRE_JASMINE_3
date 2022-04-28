@@ -29,4 +29,5 @@ J'ai vraiment aimé la manière dont ils ont caché l'ordinateur médical, on ne
 J'aime beaucoup cette œuvre, mais je n'aurais peut-être pas fait une œuvre qui a l'air si dangereuse. J'aime beaucoup me rapprocher des œuvres pour les observer de près, mais avec elle j'avais peur que le robot me donne un coup. Si ça avait été moi, j'aurais mis des moments de pause où le robot ne bouge pas. Ces moments de pause seraient évidents pour le visiteur, par exemple grâce à un effet sonore ou une lumière qui démarquerait le début et la fin de cette pause. Comme ça on peut voir les robots bouger et l’on peut les regarder de plus près quand ils sont en pause.
 
 ## Références
-https://billvorn.concordia.ca/menuallF.html
+https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx
+https://youtu.be/dn0CTaamyKU - pour la photo de vue d'ensemble de l'oeuvre.
