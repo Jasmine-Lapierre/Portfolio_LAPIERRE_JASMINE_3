@@ -7,11 +7,12 @@ Cette œuvre peut être décrite comme un "univers oû se trouve 4 grands tablea
 
 ## Description de l'oeuvre ou du dispositif multimédia
 ![photo](photos/bian_icu_installation_visiteur.jpg)
-L'œuvre est dans une pièce noire. Dans la pièce, il y a 4 dispositifs identiques. Chaque dispositif est composé de 4 éléments: 
-1. Un robot-squelette composé de rectangles métalliques et un crâne en matériaux ressemblant à un os. Il y a un respirateur attaché au crâne et plusieurs autres fils qui le joignent au cardioscope ![photo](photos/bian_icu_robot_proche.jpg)
-2. Un écran d'ordinateur qui montre un cardioscope. ![photo](photos/bian_icu_ecran_medical.jpg) ainsi que l'appareil auquel les fils du robot se rattachent ![photo](photos/bian_icu_fonctionnement.jpg)
-3. un rectangle lumineux à environ un mètre au-dessus du squelette qui illumine l'installation ![photo](photos/bian_icu_robot_lumiere_ecran_medical.jpg)
-4. 8 lumières qui pointent vers les différents dispositifs ![photo](photos/bian_icu_installation_lumieres.jpg)
+L'œuvre est supposée ressembler à un musée. L'intéracteur entre dans la pièce puis suit un tapis rouge. À sa droite, des petites et des grandes toiles blanches sont accrochés au mur. Sur les petites toiles, des animations sont projetées. Sur les grandes toiles, c'est un peu plus compliqué, car chaque toile réagit diffement lorsqu'un mouvement est détecté devant celle-ci:
+1. Pour la première toile nommée "Averse" qui montre une fille sous la pluie derriere une vitre oû la buée s'est accumulée, le mouvement permet d'enlever la buée en suivant la silhouette de la personne qui bouge en zig-zag devant.
+2. Pour la deuxieme toile nommée "Cascade" qui montre une fille qui essaye de monter une échelle dans une afin de s'échapper de l'eau au dessous de l'échelle, le mouvement ajoute des craques dans les roches qu'on voit en fond de l'oeuvre, ce qui permet à l'eau de pénétrer vers le premier plan et ce qui fait paniquer la fille qui essaye de monter l'échelle, elle essaye ensuite de refermer ses craques sans succès.
+3. Pour la troisième toile nommée "Noyade" qui montre une fille qui tombe dans l'eau, le mouvement permet de la faire bouger de droite à gauche et la fait sombrer dans les pénombres de l'océan.
+4. Pour la dernière toile nommée "Renouveau" qui montre une silhouette accotée sur un arbre en pleine nuit, le mouvement permet d'ajouter des couleurs à la toile et de montrer la fille dans un paysage très paisilbe et coloré.
+5.  
 Le principe de cette installation est plutôt simple. En effet, lorsqu'un visiteur s'approche d'une installation, elle est supposée s'activer. Lorsqu'elle s'active, elle nous montre la souffrance du robot malade en faisant bouger le robot comme un humain qui se débat. Malheureusement, les responsables de l'installation n'ont pas réussi à rendre l'installation interactive, ce qui veut dire que l'œuvre est constamment activée.
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
