@@ -1,4 +1,4 @@
-# I.C.U (INTENSIVE CARE UNIT)
+# Chronaufrage
 
 ## Informations générales de l'oeuvre
 Cette œuvre peut être décrite comme un "univers oû se trouve 4 grands tableaux immobiles et quelques petits tableaux qui servent à montrer la pression vécue dans notre société de devoir être toujours plus productifs, afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi."(comme lu sur le site de l'exposition)
