@@ -21,7 +21,7 @@ Les dispositifs s'activent et s'éteignent grâce à un bouton dissimulé derrie
 
 
 ### Description de mon expérience de l'oeuvre ou du dispositif
-Lorsque je suis rentrée dans la salle, je ne comprenais pas vriament l'interet de cette oeuvre, puis en la regardant longuement afin de comprendre quel était son but j'ai observé l'effet d'obtique des lignes de jet d'encres et cela m'a vraiment impressionné
+Lorsque je suis rentrée dans la salle, je ne comprenais pas vraiment l'interet de cette oeuvre, puis en la regardant longuement afin de comprendre quel était son but j'ai observé l'effet d'obtique des lignes de jet d'encres et cela m'a vraiment impressionné. J'ai aimé le fait que ça m'a permis de prendre une pause et de juste rester debout à regarder un dispositif en mouvement même s'il est vraiment lent. Ça m'a vraiment interessé qu'ils aient réussi à garder mon attention pendant aussi longtemps alors que d'habitude les oeuvres très lentes me désinteressent rapidement, mais cette oeuvre a réussi à trouver une manière de se faire aimer par les personnes avec une capacité d'attention réduite en misant sur les effets d'optiques.
 
 ### Ce qui m'a plu, m'a donné des idées
 J'ai vraiment aimé l'idée de montrer des mouvements très rapides à l'aide du mouvement très lent, l'idée me fait penser à l'illusion de l'oiseau https://youtube.com/clip/UgkxvHOyGCKm3JD_mJbQB6-9YdzwHyvXKLgo qui m'a vraiment interessé quand je l'ai vu. Les differentes formes géométriques et vitesses nous laisse vraiment apprecier plusieurs variations de ce phénomène.
