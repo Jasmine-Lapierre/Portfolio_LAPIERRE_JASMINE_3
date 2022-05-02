@@ -13,6 +13,7 @@ L'œuvre est composé de 3 dispositif basés chacun sur une forme géométrique 
 3. Du bois blanc dont la forme correspond à la forme géométrique du dispositif dégagé du mur grâce à un support d'aluminium qui est lui aussi de la forme géométrique du dispositif.
 4. Du vinyl auto-collant noir sur le mur dont la forme correspond à la forme géométrique du dispositif.
 5. Un détecteur de mouvement placé au milieu du vinyl du côté du bas. ![détecteur mouvement](medias/photos_png/detecteur_mouvement.jpg)
+Pour mieux comprendre ou se situe le détecteur de mouvement, tout les petits points verts sur ce croquis sont les détecteurs de mouvement ![croquis](croquis/croquis.png)
 
 Le principe de cette installation est plutôt simple. En effet, lorsqu'un visiteur s'approche d'une installation, elle se met en marche. Chaque dispositif bouge à une vitesse differente. Le rond bouge très lentement, le triangle un peu moins et le carré est presque vite. Les bras d'aluminium bougent dans le même pattern en boucle et chaque dispositif a son propre patern de défini.
 
