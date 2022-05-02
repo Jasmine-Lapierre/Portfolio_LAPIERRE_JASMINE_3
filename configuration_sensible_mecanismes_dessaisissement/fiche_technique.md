@@ -10,12 +10,21 @@ Cette œuvre peut être décrite comme des "sculptures murales qui tendent à ca
 L'œuvre est composé de 3 dispositif basés chacun sur une forme géométrique differente. Chaque dispositif contient: 
 1. Deux formes principales en acrylique, une noire et une colorée. Des lignes sont imprimées sur ces formes grâce à l'impression à jet d’encre sur acrylique.
 2. Quatre bras noir d'aluminium qui sont reliés aux deux formes principales et qui permettent de les bouger. Sur les bras, il y a des diodes électroluminescentes dirigées vers les formes princiaples afin de les illuminer.
+
+
+https://user-images.githubusercontent.com/89647613/166181674-085af655-ff41-4faa-9bd2-d6dcfa0c3473.mp4
+
+
 3. Du bois blanc dont la forme correspond à la forme géométrique du dispositif dégagé du mur grâce à un support d'aluminium qui est lui aussi de la forme géométrique du dispositif.
 4. Du vinyl auto-collant noir sur le mur dont la forme correspond à la forme géométrique du dispositif.
 5. Un détecteur de mouvement placé au milieu du vinyl du côté du bas. ![détecteur mouvement](medias/photos_png/detecteur_mouvement.jpg)
 Pour mieux comprendre ou se situe le détecteur de mouvement, tout les petits points verts sur ce croquis sont les détecteurs de mouvement ![croquis](croquis/croquis.png)
 
-Le principe de cette installation est plutôt simple. En effet, lorsqu'un visiteur s'approche d'une installation, elle se met en marche. Chaque dispositif bouge à une vitesse differente. Le rond bouge très lentement, le triangle un peu moins et le carré est presque vite. Les bras d'aluminium bougent dans le même pattern en boucle et chaque dispositif a son propre patern de défini.
+Le principe de cette installation est plutôt simple. En effet, lorsqu'un visiteur s'approche d'une installation, elle se met en marche. Chaque dispositif bouge à une vitesse differente. Le rond bouge très lentement, le triangle un peu moins et le carré est presque vite. Les bras d'aluminium bougent dans le même pattern en boucle et chaque dispositif a son propre patern de défini. Lorsque les formes sont une par dessus l'autre, il y a un effet d'optique qui peut être vu comme sur cet exemple:
+
+
+https://user-images.githubusercontent.com/89647613/166181723-cb16660d-bed4-41c0-ad61-0f9d5e0c51c0.mp4
+
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 Les dispositifs s'activent et s'éteignent grâce à un bouton dissimulé derriere l'oeuvre. L'alimentation est branchée directement sur le mur sur lequel sont disposés les dispositifs. Aucun fils n'est caché. Les concepteurs ont aussi choisi de laisser les dispositifs électromécaniques à la vu des visiteurs, ce qui permet aux visiteurs de voir autant le côté pur et organisé de l'oeuvre que le côté plus technique et désordonné. ![dispositif électromécanique](medias/photos_png/dispositif_electromecanique.jpg)Le support d'alumium qui soutient les dispositifs fait partie des dispositifs alors il n'a qu'à être fixé au mur afin de fonctionner, l'oeuvre n'a pas besoin de quoique ce soit de l'exposant afin d'être en place, à part le vinyl auto-collant qui doit être collé par les techniciens sur place.
