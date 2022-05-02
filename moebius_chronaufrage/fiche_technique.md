@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/89647613/166182456-391a17cf-4a2a-4b42-
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 Toutes les toiles sont accrochées grâce à du fil de pêche. Pour la première grande toile, une webcam capte les mouvements de l'intéracteur et envoie l'information à un ordinateur qui définit la silhouette de l'utilisateur, ensuite, l'ordinateur renvoie cette information au projecteur afin que la buée s'enlève selon la silhouette de l'intéracteur. Pour les trois autres grandes toiles, une kinect est accrochée au plafond et permet de capter les mouvements de l'intéracteur, cette information est envoyé à l'ordinateur qui permet de changer les projections selon le mouvement de l'intéracteur. Deux haut-parleurs sont accroché en haut de l'oeuvre, une à l'extrémité gauche et l'autre à l'extrémité droite et elles font jouer une musique.
-
+![croquis](croquis/croquis.png)
 
 ### Description de mon expérience de l'oeuvre ou du dispositif
 J'ai eu la chance d'expérimenter cette oeuvre lorsqu'il n'y avait pas beaucoup de personnes, alors je n'étais pas déconcentrée par les autres. Cela m'a permis d'expérimenter les toiles une par une sans devoir attendre ou me sentir mal de ne pas aller assez vite (ce qui est assez ironique pour une oeuvre qui parle de la sur-rapidité de notre époque). J'ai vraiment aimé le lien entre les differentes grandes toiles qui nous font suivre une histoire. 
