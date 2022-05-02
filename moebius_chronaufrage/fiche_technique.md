@@ -40,7 +40,12 @@ J'aime vraiment la manière dont ils essayent de reinventer les musées traditio
 ### Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
 
 J'ai vraiment aimé l'idée du musée, malheureusement, je crois qu'il était difficile de realiser que c'est un musée pour les visiteurs qui n'ont pas parlé avec les créateurs. Si je devais faire une création dans ce genre et que je n'étais pas contrainte à un espace déjà utilisé par d'autres oeuvres, j'aurais décidé de mettre l'oeuvre dans une pièce à part. Dans sa propre pièce, l'oevure aurait eu plus de facilité à être immersive. Dans le studio, les musiques des autres oeuvres venaient un peu déconcentrer les visiteurs et il y avait trop d'éléments qui pouvait les déconcenter. Cette oeuvre parle du fait qu'il faut "ralentir" et arrêter de toujours aller plus vite afin d'être productif, mais elle est dans un espace ou tout est très rapide, les visiteurs veulent tout regarder et plusieurs visiteurs ne vont pas prendre le temps d'apprecier une oeuvre lente s'ils peuvent aller voir une autre oeuvre plus rapide. Alors je crois que si j'étais responsable de la création de cette oeuvre j'essayerais de "forcer" les visiteurs à aller plus lentement, par exemple en mettant moins de lumière pour que le focus soiet sur les tableaux et en séparent les tableaux pour que l'oeuvre prenenent polus d'espace et que'elle "respire". En bref, je crois que dans une pièce à l'écart et plus sombre avec des tableaux plus espacés, l'oeuvre ressemblerait un peu plus à une gallerie d'art ou un musée. Aussi, je trouve que les oeuvres ont de la difficulté à garder une unité esthétique. Certains tableaux sont très réalistes (comme le papillion d'en basà  gauche ou les bulles), alors que d'autres sont plus minimalistes (comme le papillion sur la feuille en haut à droite). Je cromprends que dans une exposition il plusieurs artistes qui ont leurs propres styles, mais là tous les tableaux sont très proches les uns des autres alors c'est difficile de trouver une cohérance artistique. 
-
+## top 
+1- sacha, j'ai aimé les détails
+2- chronaufrage, j'ai aimé le côté artistique
+3- horloge de l'apocalypse, c'est redondant assez vite
+4- heu temporel, je n'aime pas vraiment leffet competittif.
+5- les autres, je n'ai pas eu la chance de les experimenter
 ## Références
 https://tim-montmorency.com/2022/
 https://github.com/Blobduckies/Chronaufrage
