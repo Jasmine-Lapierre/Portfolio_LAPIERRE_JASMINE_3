@@ -16,14 +16,14 @@ L'oeuvre est située dans la basilique Notre-Dame. Dans la basilique, lorsque l'
 Habituellement, les projections vidéos se font sur des fond foncés et plats, mais ce n'est pas le cas pour la basilique Notre-Dame oû l'architecture est très complexe. À cause de cette complexité, l'oeuvre nécessite de nombreux projecteurs afin de projeter les differentes parties de l'exposiiton. Il fallait aussi plusieurs lumières synchronisées avec les projections. Elles sont principalement placés sur les étages supérieurs de la basilique pour que les visiteurs ne puissent pas les voirs de leur place, ainsi qu'en haut des statue qui se trouvent au devant de la salle. Considérant que la musique ne vient pas d'une direction en particulier, je crois qu'il y avait plusieurs haut-parleurs mais je n'ai pas reussi à les trouver, car tout l'équipement est caché. Pour les lasers, il y en avait 3 en avant de la salle et un gros derriere les spectateurs en hauteur.
 ## Mon ressentie
 ### Description de mon expérience de l'oeuvre ou du dispositif
-J'étais vraiment intéressée par l'oeuvre avant de l'expérimenter, car j'aime beaucoup la musique sacrée et j'ai été très heureuse d'entendre la traque sonore. On dirait vraiment que les lumières et la musique se parlent. Moment Factory a décidé de revisiter l'oeuvre afin d'ajouter l'orgue de la basilique à la musique et je trouve que c'est une bonne idée considerant que l'orgue est l'instrument le plus associé à la musique sacrée.
-
+J'étais vraiment intéressée par l'oeuvre avant de l'expérimenter, car j'aime beaucoup la musique sacrée et j'ai été très heureuse d'entendre la traque sonore. On dirait vraiment que les lumières et la musique se parlent. Moment Factory a décidé de revisiter l'oeuvre afin d'ajouter l'orgue de la basilique à la musique et je trouve que c'est une bonne idée considerant que l'orgue est l'instrument le plus associé à la musique sacrée. Je n'avais vécu une oeuvre de Moment Factory et c'était vraiment impressionant, j'étais vraiment étonnée de voir tout ce qui était possible de faire avec la projection.
 ### Ce qui m'a plu, m'a donné des idées
-J'ai vraiment aimé les differentes manières qu'ils ont utilisé pour faire "respirer" l'oeuvre, par exemple en écairant plus lorsque la musique arrive sur un temps fort ou en faisant un effet de décalage avec la projection
+J'ai vraiment aimé les differentes manières qu'ils ont utilisé pour faire "respirer" l'oeuvre, par exemple en écairant plus lorsque la musique arrive sur un temps fort ou en faisant un effet de décalage avec la projection. J'ai aussi aimé à quel point les petits détails étaient réalistes.
 
 ### Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
 
-J'aime beaucoup cette œuvre, mais je n'aurais peut-être pas fait une œuvre qui a l'air si dangereuse. J'aime beaucoup me rapprocher des œuvres pour les observer de près, mais avec elle j'avais peur que le robot me donne un coup. Si ça avait été moi, j'aurais mis des moments de pause où le robot ne bouge pas. Ces moments de pause seraient évidents pour le visiteur, par exemple grâce à un effet sonore ou une lumière qui démarquerait le début et la fin de cette pause. Comme ça on peut voir les robots bouger et l’on peut les regarder de plus près quand ils sont en pause.
+Autant que je trouve que les petits détails étaient très réalistes et immersifs, lorsque de gros éléments étaitn projetés au plafond, comme les feuilles ou encore l'averse et le déluge, c'était difficile d'y croire, car la qualité baissait et les contours des objets devenaient un peu pixelisés et moins pigmentés. Si je devais faire une oeuvre semblable, j'essayerais de rester dans l'abstrait.
 
 ## Références
-https://billvorn.concordia.ca/menuallF.html
+https://youtu.be/FqM0eH8usos
+https://momentfactory.com/projets/tous/tous/aura
